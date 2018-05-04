@@ -23,7 +23,7 @@ See: https://developer.nvidia.com/embedded/jetpack for installation of Jetpack.
 
 See: https://github.com/jetsonhacks/installCaffeJTX2 for installation of Caffe.
 
-See: https://jkjung-avt.github.io/opencv3-on-tx2/ for installation of OpenCV
+See: https://jkjung-avt.github.io/opencv3-on-tx2/ for installation of OpenCV.
 
 ### Running the tests
 
