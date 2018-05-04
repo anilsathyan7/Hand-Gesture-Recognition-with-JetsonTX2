@@ -13,7 +13,7 @@ Nvidia Jetson TX2 flashed with Jetpack and host PC with Ubuntu 16.04 and a Webca
 
 Seven Segment Display (CA),LED's (R,G,B,O colours), Resistors (120 ohm), Jumper wires, Hook up wires,Breadboard etc.
 
-Additionally, it requires Caffe and OpenCV3 to be installed in jetson TX2.
+Additionally, it requires CUDA, Caffe and OpenCV3 to be installed in Jetson TX2.
 
 If you want to train on your own data, use Caffe and NVIDIA Digits on PC.
 
@@ -29,7 +29,7 @@ See: https://jkjung-avt.github.io/opencv3-on-tx2/ for installation of OpenCV
 
 First, connect the Seven Segment Display to GPIO pins as shown in video through resistors.
 Ensure proper 'ground' (GND) connections.The required data files for the program can be found in data folder.Make neccessary changes for file path in the program before executing the program.
-Enure the dependedncies and packages are properly installed (versions).
+Enure the dependencies and packages are properly installed (versions).
 
 In terminal:-
 
