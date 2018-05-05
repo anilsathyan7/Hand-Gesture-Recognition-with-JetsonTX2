@@ -38,6 +38,9 @@ Login as root and execute the python scripts after ensuring the appropriate conn
 Examples:-
 $ python gesture_cv.py
 
+### Demo Video
+
+Vimeo: https://vimeo.com/268149005
 
 ## Versioning
 
